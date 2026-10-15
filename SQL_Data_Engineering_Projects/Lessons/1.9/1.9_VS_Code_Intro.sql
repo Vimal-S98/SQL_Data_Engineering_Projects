@@ -1,2 +1,4 @@
-SELECT 42 AS num;
+SELECT 'Vimal' AS name
+UNION ALL
+SELECT 17 AS age;
 
