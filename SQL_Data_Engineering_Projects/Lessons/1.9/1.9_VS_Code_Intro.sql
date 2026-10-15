@@ -1,4 +1,2 @@
-SELECT 'Vimal' AS name
-UNION ALL
-SELECT 17 AS age;
+SELECT 79044 AS lucky;
 
